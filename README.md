@@ -21,7 +21,7 @@
 
 ### 方式一：独立 EXE（推荐）
 
-从 [Releases](https://github.com/Ygx945/KeilC51-to-HEX/releases) 下载 `Keil2Hex_v3.0.exe`，双击运行。
+从 [Releases](https://github.com/Ygx945/C51-to-HEX/releases) 下载 `Keil2Hex_v3.0.exe`，双击运行。
 
 ### 方式二：Python 脚本
 
