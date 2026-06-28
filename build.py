@@ -24,7 +24,7 @@ from pathlib import Path
 # ============================================================
 
 PROJECT_DIR = Path(__file__).parent.resolve()
-SOURCE_PYW = PROJECT_DIR / "keil2hex_v3.0.pyw"
+SOURCE_PYW = PROJECT_DIR / "keil2hex.pyw"
 BUNDLE_DIR = PROJECT_DIR / "_bundle_sdcc"
 OUTPUT_NAME = "Keil2Hex_v3.0"
 SDCC_INSTALL = Path(r"C:\Program Files\SDCC")
